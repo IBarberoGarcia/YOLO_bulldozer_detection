@@ -11,3 +11,5 @@ It contains
 
 The code included here can be applied to a dataset of images previously, no code is providing for extraction of the required frames from video, as each dataset 
 will be structured in a different way
+
+python crop_and_pca.py \demo_dataset/images \demo_dataset/change \demo_dataset/crop_file.txt
