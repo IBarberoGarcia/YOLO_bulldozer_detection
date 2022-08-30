@@ -40,6 +40,6 @@ Example for the demo dataset:
 
 `python detect.py --weights models/bulldozer.pt --img 320 --conf 0.2 --source demo_dataset/changes --save-txt --save-conf`
 
-##Create a file with a list of detected bulldozers
+## Create file with the list of detected bulldozers
 
 
