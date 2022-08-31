@@ -1,5 +1,4 @@
 # Change detection and YOLO for automatic characterization of anthropogenic changes in a sandy beach
-IN PROCESS
 
 This repository contains the code described in the paper "Change detection and YOLO for automatic characterization of anthropogenic changes in a sandy beach"
 It contains
