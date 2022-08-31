@@ -39,7 +39,7 @@ Example for demo dataset:
 
 ## Detection
 
-The pretrained model for the bulldozer detection is located in model/bulldozer.pt
+The pretrained model for the bulldozer detection is located in https://drive.google.com/file/d/1W4xQZJFQzz3Dp3aplp6vHzum9iLTIalo/view?usp=sharing
 
 YOLOv5 can be downloaded from https://github.com/ultralytics/yolov5
 
