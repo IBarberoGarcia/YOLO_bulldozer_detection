@@ -82,5 +82,5 @@ Example for demo dataset:
 
 ## Training dataset
 
-Two training dataset are included, one for the original RGB images and one for the change images.
+Two training dataset can be found in https://drive.google.com/file/d/15ZjoaxWw2K5V4PEori5PXW4IlwyyhfPk/view?usp=sharing. The file contains one folder for the original RGB images and one for the change images.
 
